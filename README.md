@@ -4,7 +4,6 @@
 <h3 align="center">I am learning Django and i do Backend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj1506&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj1506" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yash44207966" target="blank"><img src="https://img.shields.io/twitter/follow/yash44207966?logo=twitter&style=for-the-badge" alt="yash44207966" /></a> </p>
 
