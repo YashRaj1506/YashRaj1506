@@ -1,13 +1,13 @@
 
 ![1691415525538](https://github.com/YashRaj1506/YashRaj1506/assets/144276098/725a6d69-8ab2-497a-acce-0323c76988d5)
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">I do Django and Python Development.</h3>
+<h3 align="center">I do Django Backend and Python Development.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> -->
 
 
 <p align="left"> <a href="https://twitter.com/yash44207966" target="blank"><img src="https://img.shields.io/twitter/follow/yash44207966?logo=twitter&style=for-the-badge" alt="yash44207966" /></a> </p>
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django, Backend and Python**
 
 - 📫 How to reach me **yashraj504300@gmail.com**
 
