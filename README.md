@@ -1,5 +1,8 @@
 # 💫 About Me:
-I currently do Backend Engineering and Python Development.
+Hey guys! My name is Yash Raj. 
+I currently do Backend Engineering and Python Development. I try to contribute to open source projects. 
+I am a Fellow at the Djangonaut Space program.
+I am core member at DjangoIndia and FOSSCU.
 
 
 ## 🌐 Socials:
