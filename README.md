@@ -5,6 +5,7 @@
 I'm a Python and Django Developer! I am a <a href= https://djangonaut.space/comms/session-3-team/> DjangoNaut<a>, Part of Team Saturn. I love contributing to Open Source and most of 
 the time i contribute to Django.
 
+- I am a Member at Django Software Foundation.
 - 🚀 I am a <a href= https://djangonaut.space/comms/session-3-team/> DjangoNaut<a>, Part of Team Saturn. 
 - I am core member at <a href=https://fosscu.org/team> FOSSCU <a> Community!
 - I am also a core member at <a href=https://www.djangoindia.org/home> DjangoIndia <a>!
