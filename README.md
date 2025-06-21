@@ -7,7 +7,6 @@ the time i contribute to Django and python based projects ;)
 
 - I am a Member at <a href= https://www.djangoproject.com/foundation/minutes/2024/dec/10/dsf-board-monthly-meeting/>Django Software Foundation <a>.
 - 🚀 I am a <a href= https://djangonaut.space/comms/session-3-team/> DjangoNaut<a>, Part of Team Saturn. 
-- I am core member at <a href=https://fosscu.org/team> FOSSCU <a> Community!
 - I am also a core member at <a href=https://www.djangoindia.org/home> DjangoIndia <a>!
 - I love contributing to Open Source.
 - Ask me about Python, Django , WebScraping and Docker
