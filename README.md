@@ -13,8 +13,7 @@ Extra context on me :)
 
 - I am a Member at 
   <a href="https://www.djangoproject.com/foundation/individual-members/">Django Software Foundation</a>.
-- I was a Speaker at one of the biggest international Python conferences **PYCON ITALIA 2025**, where I talked on designing parallel and concurrent applications with Python tools.  
-  <a href="https://2025.pycon.it/en/schedule/2025-05-29?view=grid&day=2025-05-30">Check here</a>
+- I was a Speaker at one of the biggest international Python conferences **PYCON ITALIA 2025**, where I talked on designing parallel and concurrent applications with Python tools.  <a href="https://2025.pycon.it/en/schedule/2025-05-29?view=grid&day=2025-05-30">Check here</a>
 - 🚀 I am a 
   <a href="https://djangonaut.space/comms/session-3-team/">DjangoNaut</a>, Part of Team Saturn.
 - I am also a core member at 
