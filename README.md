@@ -2,6 +2,8 @@
 
 ### Hey Everyone, My name is Yash Raj 
 
+Currently a Engineer at Sarvam AI.
+
 I'm a very curious engineer! I am a Member at 
 <a href="https://www.djangoproject.com/foundation/individual-members/">Django Software Foundation</a>.  
 I work with Python, Django, DevOps, AI, Web Scraping (bit too much) and Data.  
